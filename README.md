@@ -45,3 +45,23 @@ Lista de Tarefas:
 - [ ] Finalizar Curso de Java
 - [ ] Fim
 
+Tabela 
+Número | Nome | Nota
+---|---|---
+1 | Doglas | 9,5
+2 | Maria | 9,9
+3 | Marcos | 4,5
+
+Comando `document.getElementByld()` da linguagem JavaScrip
+
+Testando em Portugol
+```
+Var
+nome: caractere
+Inicio
+EscrevaL ("Programa")
+EscrevaL
+Escreva ("Digite seu nome: ")
+Leia (nome)
+Escreva ("Muito prazer, ", nome)
+```
